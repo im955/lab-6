@@ -1,0 +1,4 @@
+F:\Example3_lab6\Example3_lab6\obj\Debug\net7.0\Example3_lab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Example3_lab6\Example3_lab6\obj\Debug\net7.0\Example3_lab6.AssemblyInfoInputs.cache
+F:\Example3_lab6\Example3_lab6\obj\Debug\net7.0\Example3_lab6.AssemblyInfo.cs
+F:\Example3_lab6\Example3_lab6\obj\Debug\net7.0\Example3_lab6.csproj.CoreCompileInputs.cache
